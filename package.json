@@ -1,0 +1,25 @@
+{
+  "name": "oop-team-generator",
+  "version": "1.0.0",
+  "description": "create html website using command line",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "oop-team-generator"
+  },
+  "keywords": [
+    "oop"
+  ],
+  "author": "Preston Geyer",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
